@@ -4,5 +4,5 @@ Swal.fire({
     title: "Mensaje",
     text: "Producto editado correctamente",
     icon: "success",
-    timer: 2000
+    timer: 1500
 })

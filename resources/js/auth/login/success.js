@@ -4,7 +4,7 @@ Swal.fire({
     title: "Mensaje",
     text: "Te has logeado exitosamente , redirigiendo a dashboard ",
     icon: 'success',
-    timer: 2300,
+    timer: 1800,
 
 })
 

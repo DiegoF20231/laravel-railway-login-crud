@@ -43,7 +43,7 @@
                     <script>
                         setTimeout(() => {
                             window.location.href = "/dashboard"
-                        }, 2300)
+                        }, 1700)
                     </script>
                 @endif
 
