@@ -1,0 +1,9 @@
+#searchProduct::placeholder {
+    color: white;
+}
+
+nav.container-fluid h1,
+nav.container-fluid span,
+nav.container-fluid a {
+    text-shadow: 4px 3px 2px rgba(0, 0, 0, 0.6);
+}
